@@ -69,6 +69,8 @@ It also examines command-line information where process creation auditing permit
 - Findings and limitations
 - MITRE ATT&CK relevance
 
+[**View the full investigation →**](https://github.com/Mishdfir/windows-event-investigation/blob/main/02-windows-process-creation-investigation/Windows%20Process%20Investigation%20.pdf)
+
 **Observed process relationship:**
 
 ```text
