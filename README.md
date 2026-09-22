@@ -33,7 +33,7 @@ The investigation also demonstrates how failed and successful authentication eve
 - Findings and limitations
 - MITRE ATT&CK relevance
 
-[**View the full investigation →**](https://github.com/Mishdfir/windows-event-investigation/blob/main/Windows%20Logon%20Activity%20Investigation.pdf)
+[**View the full investigation →**](https://github.com/Mishdfir/windows-event-investigation/blob/main/01-windows-logon-investigation/Windows%20Logon%20Activity%20Investigation.pdf)
 
 ---
 
